@@ -52,12 +52,8 @@ table {
 }
 
 .selfie {
-	width: 50%; 
+	width: 60%; 
 	border-radius: 100%;
-}
-
-.selfie:hover {
-	width: 60%;
 }
 
 .logo {
@@ -65,7 +61,7 @@ table {
 }
 
 .logo:hover {
-	height: 55px; 
+	background-color: #2ee4bb;
 }
 
 .links {
