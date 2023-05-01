@@ -3366,13 +3366,13 @@ input, select, textarea {
 					top: 2.75rem;
 				}
 
-			#wrapper > section > .content > section {
+			/* #wrapper > section > .content > section {
 				position: relative;
-			}
+			} */
 
-				#wrapper > section > .content > section:first-child {
+				/* #wrapper > section > .content > section:first-child {
 					margin-top: 6rem;
-				}
+				} */
 
 			#wrapper > section.intro {
 				align-items: center;
