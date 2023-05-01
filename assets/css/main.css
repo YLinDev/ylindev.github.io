@@ -61,7 +61,7 @@ table {
 }
 
 #about-skills {
-	padding-top: 0rem;
+	padding-top: 0rem !important;
 }
 
 .introduction {
@@ -3287,7 +3287,7 @@ input, select, textarea {
 			#wrapper section > header {
 				grid-area: header;
 				justify-self: end;
-				text-align: right;
+				text-align: left;
 			}
 
 				#wrapper section > header h2 {
@@ -3428,9 +3428,9 @@ input, select, textarea {
 				color: inherit;
 			}
 
-		#wrapper section {
+		/* #wrapper section {
 			margin: 7.5rem 0 0 0;
-		}
+		} */
 
 			#wrapper section > header {
 				padding: 0 10rem 0 5rem;
@@ -3501,9 +3501,9 @@ input, select, textarea {
 				padding: 0 0 8rem 0;
 			}
 
-				#wrapper section {
+				/* #wrapper section {
 					margin: 6rem 0 0 0;
-				}
+				} */
 
 					#wrapper section > header {
 						padding: 0 8rem 0 4rem;
@@ -3708,9 +3708,9 @@ input, select, textarea {
 					width: 100%;
 				}
 
-				#wrapper section {
+				/* #wrapper section {
 					margin: 6rem 0 0 0;
-				}
+				} */
 
 				#wrapper > section {
 					margin: 0;
