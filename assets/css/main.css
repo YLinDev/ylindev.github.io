@@ -56,8 +56,29 @@ table {
 	border-radius: 100%;
 }
 
+.selfie:hover {
+	width: 60%;
+}
+
+.logo {
+	height: 50px;
+}
+
+.logo:hover {
+	height: 55px; 
+}
+
 .links {
 	font-size: 25px;
+}
+
+.plinks:hover {
+	color:#2ee4bb;
+}
+
+.screenshot:hover {
+	height: 110%;
+	width: 110%;
 }
 
 #about-skills {
@@ -2387,6 +2408,7 @@ input, select, textarea {
 
 	.image {
 		border: 0;
+		border-radius: 4px;
 		display: inline-block;
 		position: relative;
 	}
@@ -3379,6 +3401,7 @@ input, select, textarea {
 				} */
 
 			#wrapper > section.intro {
+				padding-bottom: 50px;
 				align-items: center;
 			}
 
@@ -3510,9 +3533,9 @@ input, select, textarea {
 						width: 33rem;
 					}
 
-					#wrapper section > .content {
+					/* #wrapper section > .content {
 						padding: 0 4rem;
-					}
+					} */
 
 					#wrapper section > footer {
 						padding: 0 8rem;
