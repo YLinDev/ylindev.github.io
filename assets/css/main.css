@@ -52,12 +52,17 @@ table {
 }
 
 .selfie {
-	width: 100%; 
+	width: 50%; 
 	border-radius: 100%;
 }
 
 .links {
 	font-size: 25px;
+}
+
+#about-skills {
+	padding-top: 0rem;
+    width: 50%;
 }
 
 .introduction {
