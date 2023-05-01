@@ -61,7 +61,11 @@ table {
 }
 
 .logo:hover {
-	background-color: #2ee4bb;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 10px 0px;
+}
+
+.screenshot:hover {
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 10px 0px;
 }
 
 .links {
@@ -74,6 +78,10 @@ table {
 
 #about-skills {
 	padding-top: 0rem !important;
+}
+
+a {
+	text-decoration:none;
 }
 
 .introduction {
