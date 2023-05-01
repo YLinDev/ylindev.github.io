@@ -76,11 +76,6 @@ table {
 	color:#2ee4bb;
 }
 
-.screenshot:hover {
-	height: 110%;
-	width: 110%;
-}
-
 #about-skills {
 	padding-top: 0rem !important;
 }
