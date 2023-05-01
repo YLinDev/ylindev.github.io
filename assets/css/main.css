@@ -80,10 +80,6 @@ table {
 	padding-top: 0rem !important;
 }
 
-a {
-	text-decoration:none;
-}
-
 .introduction {
 	display: flex; 
 	flex-direction: row-reverse;
@@ -233,7 +229,6 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color: #000000;
-		border-bottom: dotted 1px;
 	}
 
 		a:hover {
