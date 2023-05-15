@@ -72,6 +72,10 @@ table {
 	font-size: 25px;
 }
 
+.links:hover {
+	color:#2ee4bb
+}
+
 .plinks:hover {
 	color:#2ee4bb;
 }
